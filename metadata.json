@@ -1,0 +1,6 @@
+{
+  "name": "SevaSetu - Government Scheme Awareness",
+  "description": "SevaSetu empowers citizens and community workers to discover, evaluate eligibility, and access 10 vital Central and Karnataka State Government schemes for livelihood betterment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
